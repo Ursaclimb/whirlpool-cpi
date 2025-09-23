@@ -19,6 +19,7 @@ no-log-ix-name = []
 cpi = ["no-entrypoint"]
 
 [dependencies]
+# Update the version to match your main project's Anchor version.
 anchor-lang = "=0.31.1"
 
 # unpack TickArray
